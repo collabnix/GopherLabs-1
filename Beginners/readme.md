@@ -33,5 +33,5 @@
 - [Prefix Suffix]()
 - [Conversion Between Array And Slice]()
 - [Methods]() 
-- [Variadic Functions]()
+- [Variadic Functions](./Go_Variadic_functions.md)
 - [Interface]()
