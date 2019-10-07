@@ -29,4 +29,4 @@ Golang for Advanced
  
 
 
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+If you find this young project really interesting, do vote for us by clicking on "Star" on the top right of this screen.
